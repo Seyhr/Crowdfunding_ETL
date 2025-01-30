@@ -49,8 +49,6 @@ Exported the dataframe as 'campaign.csv'.
 
 ![contacts details](image-7.png)
 
-![contacts details](image.png)
-
 Exported data as 'contacts.csv'.
 
 ## Database Design:
