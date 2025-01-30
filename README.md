@@ -73,7 +73,7 @@ Created tables and imported CSV files into their respective tables.
 ![Database Schema](image-9.png)
 ![Database Schema](image-10.png)
 
-We were mindfull about the order in which the tables has to be created in PgAdmin to ensure that the data was properly imported. Since the campaign table takes foreign keys from category, subcategories and contact tables, We created this table last.
+We were mindful about the order in which the tables has to be created in PgAdmin to ensure that the data was properly imported. Since the campaign table takes foreign keys from category, subcategories and contact tables, We created this table last.
 
 Used **Select** statements to confirm data import.
 
