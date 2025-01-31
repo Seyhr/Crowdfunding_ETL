@@ -66,6 +66,8 @@ Campaign: Primary key is 'cf_id', with foreign keys referencing other tables
 ## Data Schema:
 Created a *PostgreSQL database* named 'crowdfunding_db'.
 
+![Database Schema](Image-11.png)
+
 Created tables and imported CSV files into their respective tables.
 
 ![Database Schema](image-9.png)
