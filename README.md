@@ -6,6 +6,11 @@
 
 The goal of this project is to *extract* data from Excel files, *transform* the data into a structured format, *create* a relational database, and load the *transformed* data into it.
 
+**Group members**
+- Asif Shehzad
+- Ilknur 
+- Jose Traboulsi
+- Seyhr Waqas
 
 ## Data Extraction and Transformation
 
