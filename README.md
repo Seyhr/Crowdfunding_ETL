@@ -61,7 +61,7 @@ Subcategory: Primary key is 'subcategory_id'
 Contacts: Primary key is 'contact_id'
 Campaign: Primary key is 'cf_id', with foreign keys referencing other tables
 
-![ERD](image-8.png)
+![ERD](ER_Diagram.png)
 
 ## Data Schema:
 Created a *PostgreSQL database* named 'crowdfunding_db'.
