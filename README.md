@@ -20,7 +20,7 @@ In this project we extracted *categories and subcategories* from the 'category &
 
 **Created Category DataFrame** which Contains *category_id* and *category names*. There are total *9* categories in the dataframe. 
 
-![Categories Dataframe](image-1.png)
+![Categories Dataframe]([image-1.png](https://github.com/Seyhr/Crowdfunding_ETL/blob/main/Images%20for%20Readme.md/image-1.png))
 
 
 **Created Subcategory DataFrame** which Contains *subcategory_id* and *subcategory names*. There are total *24* sub-categories in the dataframe.
